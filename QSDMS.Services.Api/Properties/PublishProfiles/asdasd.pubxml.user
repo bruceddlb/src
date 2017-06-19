@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>12/08/2016 21:07:10</publishTime>
+    </File>
+    <File Include="bin/iFramework.Framework.dll">
+      <publishTime>05/16/2017 16:54:58</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>12/08/2016 21:26:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/10/2017 16:18:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>04/10/2017 16:18:55</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/10/2017 16:18:53</publishTime>
+    </File>
+    <File Include="bin/NPOI.dll">
+      <publishTime>05/30/2016 11:27:50</publishTime>
+    </File>
+    <File Include="bin/NPOI.OOXML.dll">
+      <publishTime>05/30/2016 11:27:49</publishTime>
+    </File>
+    <File Include="bin/NPOI.OpenXml4Net.dll">
+      <publishTime>05/30/2016 11:27:49</publishTime>
+    </File>
+    <File Include="bin/NPOI.OpenXmlFormats.dll">
+      <publishTime>05/30/2016 11:27:50</publishTime>
+    </File>
+    <File Include="bin/QSDMS.Cache.dll">
+      <publishTime>05/16/2017 16:55:00</publishTime>
+    </File>
+    <File Include="bin/QSDMS.Cache.Factory.dll">
+      <publishTime>05/16/2017 16:55:01</publishTime>
+    </File>
+    <File Include="bin/QSDMS.Cache.Redis.dll">
+      <publishTime>05/16/2017 16:55:01</publishTime>
+    </File>
+    <File Include="bin/QSDMS.Services.Api.dll">
+      <publishTime>05/16/2017 16:55:02</publishTime>
+    </File>
+    <File Include="bin/QSDMS.Util.dll">
+      <publishTime>05/16/2017 16:54:59</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>05/30/2016 11:19:18</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>05/30/2016 11:19:19</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>05/30/2016 11:19:21</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>05/30/2016 11:19:27</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>04/10/2017 16:18:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>04/10/2017 16:18:55</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>04/10/2017 16:18:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>04/10/2017 16:18:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>04/10/2017 16:18:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>04/10/2017 16:18:54</publishTime>
+    </File>
+    <File Include="bin/ThoughtWorks.QRCode.dll">
+      <publishTime>03/31/2017 09:20:22</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Helpers.resources.dll">
+      <publishTime>04/10/2017 16:18:56</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Mvc.resources.dll">
+      <publishTime>04/10/2017 16:18:56</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Razor.resources.dll">
+      <publishTime>04/10/2017 16:18:56</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>04/10/2017 16:18:56</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>04/10/2017 16:18:56</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.resources.dll">
+      <publishTime>04/10/2017 16:18:56</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/16/2017 16:43:35</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/16/2017 16:43:42</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>05/16/2017 16:43:35</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/16/2017 16:55:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

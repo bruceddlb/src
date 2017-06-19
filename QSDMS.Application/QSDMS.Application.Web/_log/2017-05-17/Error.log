@@ -1,0 +1,5 @@
+System.Exception: 密码和账户名不匹配
+   在 QSDMS.Business.UserBLL.CheckLogin(String username, String password) 位置 d:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Business\QSDMS.Business\BaseManage\UserBLL.cs:行号 211
+   在 QSDMS.Application.Web.Controllers.LoginController.CheckLogin(String username, String password, String verifycode, Int32 autologin) 位置 d:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Application\QSDMS.Application.Web\Controllers\LoginController.cs:行号 131System.Exception: 密码和账户名不匹配
+   在 QSDMS.Business.UserBLL.CheckLogin(String username, String password) 位置 d:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Business\QSDMS.Business\BaseManage\UserBLL.cs:行号 211
+   在 QSDMS.Application.Web.Controllers.LoginController.CheckLogin(String username, String password, String verifycode, Int32 autologin) 位置 d:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Application\QSDMS.Application.Web\Controllers\LoginController.cs:行号 131

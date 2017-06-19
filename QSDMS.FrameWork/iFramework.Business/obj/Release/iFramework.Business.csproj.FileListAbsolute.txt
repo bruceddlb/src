@@ -1,0 +1,11 @@
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\bin\Release\iFramework.Business.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\bin\Release\iFramework.Business.pdb
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\bin\Release\iFramework.Framework.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\bin\Release\log4net.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\bin\Release\Newtonsoft.Json.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\bin\Release\ThoughtWorks.QRCode.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\bin\Release\iFramework.Framework.pdb
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\bin\Release\log4net.xml
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\obj\Release\iFramework.Business.csprojResolveAssemblyReference.cache
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\obj\Release\iFramework.Business.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.FrameWork\iFramework.Business\obj\Release\iFramework.Business.pdb

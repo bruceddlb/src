@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BCBBB9A3-03C8-446C-B108-CA6E5F3B9D51}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EMS.Data.Service.SqlServer</RootNamespace>
+    <AssemblyName>EMS.Data.Service.SqlServer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Generated\Database.cs">
+      <DependentUpon>Database.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="TestService.cs" />
+    <Compile Include="PetaPoco\PetaPoco.cs" />
+    <Compile Include="PetaPoco\PetaPocoExtension.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Generated\Database.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Database.cs</LastGenOutput>
+    </None>
+    <None Include="Generated\PetaPoco.Core.ttinclude" />
+    <None Include="Generated\PetaPoco.Generator.ttinclude" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\QSDMS.FrameWork\iFramework.Framework\iFramework.Framework.csproj">
+      <Project>{9c1b08cf-25a4-4190-95d5-d35ea5da455f}</Project>
+      <Name>iFramework.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\QSDMS.Util\QSDMS.Helper\QSDMS.Util.csproj">
+      <Project>{2e7b524e-e766-480f-9126-b54c0c10a0a4}</Project>
+      <Name>QSDMS.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EMS.Data.IService\EMS.Data.IService.csproj">
+      <Project>{f514d9b7-f425-4dd2-b8a3-8941fa5d7737}</Project>
+      <Name>EMS.Data.IService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QSDMS.Data.Factory\QSDMS.Data.Factory.csproj">
+      <Project>{027f19f6-b485-40a4-92a6-4d8a068d1dcd}</Project>
+      <Name>QSDMS.Data.Factory</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

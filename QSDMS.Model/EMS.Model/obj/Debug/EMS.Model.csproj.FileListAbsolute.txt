@@ -1,0 +1,4 @@
+D:\01workspace\10Project\src\EMS\src\QSDMS.Model\EMS.Model\bin\Debug\EMS.Model.dll
+D:\01workspace\10Project\src\EMS\src\QSDMS.Model\EMS.Model\bin\Debug\EMS.Model.pdb
+D:\01workspace\10Project\src\EMS\src\QSDMS.Model\EMS.Model\obj\Debug\EMS.Model.dll
+D:\01workspace\10Project\src\EMS\src\QSDMS.Model\EMS.Model\obj\Debug\EMS.Model.pdb

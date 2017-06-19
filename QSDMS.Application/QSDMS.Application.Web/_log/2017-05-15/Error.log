@@ -1,0 +1,205 @@
+Date and Time:         2017-05-15 15:40:58
+Machine Name:          DLB
+Process User:          dlb\bruced
+Remote User:           
+Remote Address:        ::1
+Remote Host:           ::1
+URL:                   http://localhost:1351/AuthorizeManage/Module/RemoveForm
+
+NET Runtime version:   4.0.30319.42000
+Application Domain:    /LM/W3SVC/106/ROOT-1-131393076250422606
+
+    Assembly                       Version         BuildDate
+    --------                       -------         ---------
+    mscorlib.dll                   4.0.0.0         2016-07-16 19:44:20
+    System.Web.dll                 4.0.0.0         2016-07-16 19:44:19
+    System.dll                     4.0.0.0         2016-07-16 19:43:55
+    System.Core.dll                4.0.0.0         2016-07-16 19:43:57
+    System.Web.ApplicationServices.dll 4.0.0.0         2016-07-16 19:43:57
+    System.Configuration.dll       4.0.0.0         2016-07-16 19:43:53
+    System.Xml.dll                 4.0.0.0         2016-07-16 19:43:55
+    System.Runtime.Caching.dll     4.0.0.0         2016-07-16 19:43:59
+    Microsoft.Build.Utilities.v4.0.dll 4.0.0.0         2016-07-16 19:43:53
+    Microsoft.JScript.dll          10.0.0.0        2016-07-16 19:43:55
+    System.Web.WebPages.Deployment.dll 2.0.0.0         2016-10-07 20:31:31
+    Microsoft.VisualStudio.Web.PageInspector.Loader.dll 1.0.0.0         2016-10-07 20:29:52
+    Microsoft.CSharp.dll           4.0.0.0         2016-07-16 19:43:57
+    System.Data.dll                4.0.0.0         2016-12-02 09:40:19
+    System.Web.Services.dll        4.0.0.0         2016-07-16 19:43:57
+    System.Drawing.dll             4.0.0.0         2016-07-16 19:43:59
+    System.EnterpriseServices.dll  4.0.0.0         2016-07-16 19:44:20
+    System.IdentityModel.dll       4.0.0.0         2016-07-16 19:43:55
+    System.Runtime.Serialization.dll 4.0.0.0         2016-07-16 19:43:57
+    System.ServiceModel.dll        4.0.0.0         2016-07-16 19:43:55
+    System.ServiceModel.Activation.dll 4.0.0.0         2016-07-16 19:43:57
+    System.ServiceModel.Web.dll    4.0.0.0         2016-07-16 19:43:53
+    System.Activities.dll          4.0.0.0         2016-07-16 19:43:55
+    System.ServiceModel.Activities.dll 4.0.0.0         2016-07-16 19:43:55
+    System.WorkflowServices.dll    4.0.0.0         2016-07-16 19:43:53
+    System.Web.Extensions.dll      4.0.0.0         2016-07-16 19:43:53
+    System.Data.DataSetExtensions.dll 4.0.0.0         2016-07-16 19:43:53
+    System.Xml.Linq.dll            4.0.0.0         2016-07-16 19:43:57
+    System.ComponentModel.DataAnnotations.dll 4.0.0.0         2016-07-16 19:43:57
+    System.Web.DynamicData.dll     4.0.0.0         2016-07-16 19:43:55
+    AlibabaSms.DLL                 1.0.0.0         2017-05-15 15:40:26
+    AopSdk.DLL                     2.0.0.0         2017-05-15 15:40:26
+    CrystalQuartz.Core.DLL         4.0.0.0         2017-05-15 15:40:26
+    CrystalQuartz.Web.DLL          4.0.0.0         2017-05-15 15:40:26
+    ICSharpCode.SharpZipLib.DLL    0.86.0.518      2017-05-15 15:40:26
+    iFramework.Business.DLL        1.0.0.0         2017-05-15 15:40:26
+    iFramework.Framework.DLL       1.0.0.0         2017-05-15 15:40:26
+    log4net.DLL                    1.2.13.0        2017-05-15 15:40:26
+    Microsoft.AspNet.Identity.Core.DLL 2.0.0.0         2017-05-15 15:40:26
+    Microsoft.AspNet.Identity.Owin.DLL 2.0.0.0         2017-05-15 15:40:26
+    Microsoft.Owin.DLL             3.0.1.0         2017-05-15 15:40:26
+    Microsoft.Owin.Security.Cookies.DLL 2.0.0.0         2017-05-15 15:40:26
+    Microsoft.Owin.Security.DLL    3.0.0.0         2017-05-15 15:40:26
+    Microsoft.Web.Infrastructure.dll 1.0.0.0         2016-10-07 20:30:57
+    Microsoft.Web.Mvc.FixedDisplayModes.DLL 1.0.0.0         2017-05-15 15:40:26
+    MySql.Data.DLL                 6.8.3.0         2017-05-15 15:40:26
+    Newtonsoft.Json.DLL            4.5.0.0         2017-05-15 15:40:26
+    NPOI.DLL                       2.1.3.1         2017-05-15 15:40:26
+    NPOI.OOXML.DLL                 2.1.3.1         2017-05-15 15:40:26
+    NPOI.OpenXml4Net.DLL           2.1.3.1         2017-05-15 15:40:26
+    NPOI.OpenXmlFormats.DLL        2.1.3.1         2017-05-15 15:40:26
+    Owin.DLL                       1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Application.Library.DLL  1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Application.Web.DLL      1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Business.Cache.DLL       1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Business.DLL             1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Cache.DLL                1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Cache.Factory.DLL        1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Cache.Redis.DLL          1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Data.IService.DLL        1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Data.Service.MySqlServer.DLL 1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Data.Service.SqlServer.DLL 1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Model.DLL                1.0.0.0         2017-05-15 15:40:26
+    QSDMS.Util.DLL                 1.0.0.0         2017-05-15 15:40:26
+    Quartz.DLL                     2.3.3.0         2017-05-15 15:40:26
+    ServiceStack.Common.DLL        4.0.56.0        2017-05-15 15:40:26
+    ServiceStack.Interfaces.DLL    4.0.0.0         2017-05-15 15:40:26
+    ServiceStack.Redis.DLL         4.0.56.0        2017-05-15 15:40:26
+    ServiceStack.Text.DLL          4.0.56.0        2017-05-15 15:40:26
+    System.Web.Helpers.dll         2.0.0.0         2016-10-07 20:31:31
+    System.Web.Mvc.dll             4.0.0.1         2016-10-07 20:31:31
+    System.Web.Optimization.DLL    1.1.0.0         2017-05-15 15:40:26
+    System.Web.Razor.dll           2.0.0.0         2016-10-07 20:31:31
+    System.Web.WebPages.dll        2.0.0.0         2016-10-07 20:31:31
+    System.Web.WebPages.Razor.dll  2.0.0.0         2016-10-07 20:31:31
+    ThoughtWorks.QRCode.DLL        1.0.4778.30637  2013-01-30 17:01:14
+    TopSdk.DLL                     2.0.0.0         2017-05-15 15:40:27
+    System.Xaml.dll                4.0.0.0         2016-07-16 19:43:57
+    Microsoft.VisualStudio.Web.PageInspector.Runtime.dll 2.0.0.0         2016-10-07 20:29:52
+    Microsoft.VisualStudio.Web.PageInspector.Tracing.dll 2.0.0.0         2016-10-07 20:29:52
+    System.Web.RegularExpressions.dll 4.0.0.0         2016-07-16 19:43:53
+    System.Data.Services.Design.dll 4.0.0.0         2016-07-16 19:43:59
+    System.resources.dll           4.0.0.0         2016-07-17 06:32:11
+    System.Web.Http.WebHost.dll    4.0.0.0         2016-10-07 20:31:31
+    System.Web.Http.dll            4.0.0.0         2016-10-07 20:31:31
+    System.Data.SqlXml.dll         4.0.0.0         2016-07-16 19:43:57
+    System.ServiceModel.Internals.dll 4.0.0.0         2016-07-16 19:43:59
+    System.Runtime.DurableInstancing.dll 4.0.0.0         2016-07-16 19:43:53
+    System.Transactions.dll        4.0.0.0         2016-07-16 19:44:20
+    Microsoft.Build.Framework.dll  4.0.0.0         2016-07-16 19:43:55
+    System.Security.dll            4.0.0.0         2016-07-16 19:43:57
+    System.Net.dll                 4.0.0.0         2016-07-16 19:43:53
+    System.Data.Linq.dll           4.0.0.0         2016-07-16 19:43:55
+    System.Web.DataVisualization.dll 4.0.0.0         2016-07-16 19:43:55
+    System.Net.Http.dll            4.0.0.0         2016-07-16 19:43:55
+    SMDiagnostics.dll              4.0.0.0         2016-07-16 19:43:57
+    Microsoft.VisualBasic.Activities.Compiler.dll 10.0.0.0        2016-07-16 19:44:20
+    System.Workflow.Runtime.dll    4.0.0.0         2016-07-16 19:43:57
+    System.Workflow.ComponentModel.dll 4.0.0.0         2016-07-16 19:43:57
+    System.Workflow.Activities.dll 4.0.0.0         2016-07-16 19:43:59
+    System.Windows.Forms.dll       4.0.0.0         2016-07-16 19:43:55
+    System.Configuration.Install.dll 4.0.0.0         2016-07-16 19:43:55
+    System.Xaml.Hosting.dll        4.0.0.0         2016-07-16 19:43:55
+    System.Web.Mvc.resources.dll   4.0.0.0         2016-10-07 20:31:31
+    System.Net.Http.Formatting.dll 4.0.0.0         2016-10-07 20:31:30
+    System.Numerics.dll            4.0.0.0         2016-07-16 19:43:55
+    System.Web.Mobile.dll          4.0.0.0         2016-07-16 19:43:57
+    Microsoft.VisualStudio.Web.PageInspector.HtmlParser.dll 2.0.0.0         2016-10-07 20:29:51
+                                                   
+    System.Web.Razor.resources.dll 2.0.0.0         2016-10-07 20:31:31
+    System.Web.resources.dll       4.0.0.0         2016-07-17 06:32:11
+    System.Dynamic.dll             4.0.0.0         2016-07-16 19:43:59
+    System.Data.OracleClient.dll   4.0.0.0         2016-07-16 19:44:20
+    System.Data.resources.dll      4.0.0.0         2016-07-17 06:32:12
+    Microsoft.CSharp.resources.dll 4.0.0.0         2016-07-17 06:32:12
+    Microsoft.IdentityModel.dll    3.5.0.0         2016-10-07 20:11:05
+
+Exception Type:         System.Exception
+Exception Message:         当前所选数据有子节点数据！
+Exception Data:         {}
+Exception Source:         QSDMS.Data.Service.SqlServer
+Exception Target Site:         RemoveForm
+
+---- Stack Trace ----
+   QSDMS.Data.Service.SqlServer.ModuleService.RemoveForm(System.String keyValue)
+       ModuleService.cs: line 0122, col 17, IL 0236
+   QSDMS.Business.ModuleBLL.RemoveForm(System.String keyValue)
+       ModuleBLL.cs: line 0105, col 17, IL 0020
+
+
+---- ASP.NET Collections ----
+
+Form
+
+    keyValue                      b9f9df92-8ac5-46e2-90ac-68c5c2e034c3
+    __RequestVerificationToken    Jk8jGeamfo0W0hmjy_k9lLVNHT9EBoiybc5HvxinkKN7jQPi5B_mtxNApsr0Z_R2ylhGESpchZCsOxxpRysrL7ABFF7d4jJUpkbP_CGituk1
+
+Cookies
+
+    Login_Cooldel                 admin
+    ASP.NET_SessionId             iqyfk0l5w1o1uafnxipvepdk
+    __RequestVerificationToken    0OE6K6mKnQcBbp2rZcZsjOCtlEgLchyuE1eLppcIiIGX7BqZWIxzv0IuqUzoB0K8H5_lWec0sAZF7R2PtGY53-7VtmnJSruVe9HquOoafnE1
+    QSDMS_LoginUserKey_2016       13C2C1A702AE2DE04DA41DDD7443385A9FBFF771C51CC631FB246AB09F146C8E5E25D1C9A8C1CB8D5B81D4F24223287719D854EA10D77A3BC10E9B9783C006527312105035751E5386976279F01D285D81C85280F6AB5159F628C3AE3EFEB396342464DF529BE10FEC5DD8ED834B4B58CBB7BBED837645936E456574877010E53EBD7E82B1FB6FF80392FA44EF9BE8CB2D7EB3E8CAFBE433CB68DEA5189462F9FEC9D6E0304FFE8C006AB9763BCCB358B5C4EEBA8A3F687DEA7E7E10CB0B1E7F4662790931D5F3D3EA748E145550AE842C76248DFDABD27D6D9ABEAB35D18FE8D1B687938374C0FC93ACE3EDF0FBD183A4C7462A6B337DDA7E14679E003F875F0D7933ABA9F02F9569D25A8E94AA00C524601F69826CB9B171B3A69EC3F40098579678895090E8ADF929F1DAD4EE9F280156D1AA05B4368BAF254F4B2186B781C8F3A129C3D14B272AC3EB5E11BEEE9E337A6E58303261275ECA8FF797BC32F49CBC948712A3090D978B406F69F1853C6A1D35761D3FBA961FD87B069C1FB8CC8092ED4C270241904B073F4FDF9E51EC0F467EF4934E87639968A7D387FE7C1FDD9FBBACD7A2A6DA292543BD1B0A2E6AADB0E89369F70E6184C4080C7C2B46F53A18A59B4B62DD0CC7F77CA4D876080A4183C53EBED2C7E372BAB96A348B6016AC4BFE5000F5FC92558733B96E13607E79D41DC581BDB6610FE0600FDFA3365D13C8F3F1D441F09B3A2C086EC15BD4E7FED78D6F6DCE524689A59A767383BCDDF1DEAA93AC04D8108CA67207451AB360A7F1E35BAADE1BE6B4CE7EAC15D15F9E566B01BE99D936B654C420CE27AACB035BE9D1DCEDC0162E4687462DD6667AF1FDB6E820ADC1D352BFF14223C7859872C2D72786C502B8990F4AA09103FF1099CA9BE851D7EFED22123226F40A19A6DE85277C50838574D76212ABB6E92AA2CBEC3BCD35E04091C65C8246B5370C74C43417A131E14D72E9A13079336175FDDD60A0168EFD29611EAC5F1128D34BBC76E0BBCB68BB35BD505FB7291DAE8DA12B7D7222C3374DB7DBA4F2755610372E5BB21B3FDFF4979055E6BA867D36B509CECA5830A384A9DB78
+    currentmoduleId               21
+
+Session
+
+    session_verifycode            E09177C17D0D17FF
+
+ServerVariables
+
+    APPL_MD_PATH                  /LM/W3SVC/106/ROOT
+    APPL_PHYSICAL_PATH            D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Application\QSDMS.Application.Web\
+    CONTENT_LENGTH                181
+    CONTENT_TYPE                  application/x-www-form-urlencoded; charset=UTF-8
+    GATEWAY_INTERFACE             CGI/1.1
+    HTTPS                         off
+    INSTANCE_ID                   106
+    INSTANCE_META_PATH            /LM/W3SVC/106
+    LOCAL_ADDR                    ::1
+    PATH_INFO                     /AuthorizeManage/Module/RemoveForm
+    PATH_TRANSLATED               D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Application\QSDMS.Application.Web\AuthorizeManage\Module\RemoveForm
+    REMOTE_ADDR                   ::1
+    REMOTE_HOST                   ::1
+    REMOTE_PORT                   18870
+    REQUEST_METHOD                POST
+    SCRIPT_NAME                   /AuthorizeManage/Module/RemoveForm
+    SERVER_NAME                   localhost
+    SERVER_PORT                   1351
+    SERVER_PORT_SECURE            0
+    SERVER_PROTOCOL               HTTP/1.1
+    SERVER_SOFTWARE               Microsoft-IIS/8.0
+    URL                           /AuthorizeManage/Module/RemoveForm
+    HTTP_CONNECTION               keep-alive
+    HTTP_CONTENT_LENGTH           181
+    HTTP_CONTENT_TYPE             application/x-www-form-urlencoded; charset=UTF-8
+    HTTP_ACCEPT                   application/json, text/javascript, */*; q=0.01
+    HTTP_ACCEPT_ENCODING          gzip, deflate
+    HTTP_ACCEPT_LANGUAGE          zh-CN,zh;q=0.8
+    HTTP_COOKIE                   Login_Cooldel=admin; ASP.NET_SessionId=iqyfk0l5w1o1uafnxipvepdk; __RequestVerificationToken=0OE6K6mKnQcBbp2rZcZsjOCtlEgLchyuE1eLppcIiIGX7BqZWIxzv0IuqUzoB0K8H5_lWec0sAZF7R2PtGY53-7VtmnJSruVe9HquOoafnE1; QSDMS_LoginUserKey_2016=13C2C1A702AE2DE04DA41DDD7443385A9FBFF771C51CC631FB246AB09F146C8E5E25D1C9A8C1CB8D5B81D4F24223287719D854EA10D77A3BC10E9B9783C006527312105035751E5386976279F01D285D81C85280F6AB5159F628C3AE3EFEB396342464DF529BE10FEC5DD8ED834B4B58CBB7BBED837645936E456574877010E53EBD7E82B1FB6FF80392FA44EF9BE8CB2D7EB3E8CAFBE433CB68DEA5189462F9FEC9D6E0304FFE8C006AB9763BCCB358B5C4EEBA8A3F687DEA7E7E10CB0B1E7F4662790931D5F3D3EA748E145550AE842C76248DFDABD27D6D9ABEAB35D18FE8D1B687938374C0FC93ACE3EDF0FBD183A4C7462A6B337DDA7E14679E003F875F0D7933ABA9F02F9569D25A8E94AA00C524601F69826CB9B171B3A69EC3F40098579678895090E8ADF929F1DAD4EE9F280156D1AA05B4368BAF254F4B2186B781C8F3A129C3D14B272AC3EB5E11BEEE9E337A6E58303261275ECA8FF797BC32F49CBC948712A3090D978B406F69F1853C6A1D35761D3FBA961FD87B069C1FB8CC8092ED4C270241904B073F4FDF9E51EC0F467EF4934E87639968A7D387FE7C1FDD9FBBACD7A2A6DA292543BD1B0A2E6AADB0E89369F70E6184C4080C7C2B46F53A18A59B4B62DD0CC7F77CA4D876080A4183C53EBED2C7E372BAB96A348B6016AC4BFE5000F5FC92558733B96E13607E79D41DC581BDB6610FE0600FDFA3365D13C8F3F1D441F09B3A2C086EC15BD4E7FED78D6F6DCE524689A59A767383BCDDF1DEAA93AC04D8108CA67207451AB360A7F1E35BAADE1BE6B4CE7EAC15D15F9E566B01BE99D936B654C420CE27AACB035BE9D1DCEDC0162E4687462DD6667AF1FDB6E820ADC1D352BFF14223C7859872C2D72786C502B8990F4AA09103FF1099CA9BE851D7EFED22123226F40A19A6DE85277C50838574D76212ABB6E92AA2CBEC3BCD35E04091C65C8246B5370C74C43417A131E14D72E9A13079336175FDDD60A0168EFD29611EAC5F1128D34BBC76E0BBCB68BB35BD505FB7291DAE8DA12B7D7222C3374DB7DBA4F2755610372E5BB21B3FDFF4979055E6BA867D36B509CECA5830A384A9DB78; currentmoduleId=21
+    HTTP_HOST                     localhost:1351
+    HTTP_REFERER                  http://localhost:1351/AuthorizeManage/Module/Index
+    HTTP_USER_AGENT               Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+    HTTP_ORIGIN                   http://localhost:1351
+    HTTP_X_REQUESTED_WITH         XMLHttpRequest
+
+
+System.Exception: 密码和账户名不匹配
+   在 QSDMS.Business.UserBLL.CheckLogin(String username, String password) 位置 d:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Business\QSDMS.Business\BaseManage\UserBLL.cs:行号 211
+   在 QSDMS.Application.Web.Controllers.LoginController.CheckLogin(String username, String password, String verifycode, Int32 autologin) 位置 d:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Application\QSDMS.Application.Web\Controllers\LoginController.cs:行号 131System.Exception: 密码和账户名不匹配
+   在 QSDMS.Business.UserBLL.CheckLogin(String username, String password) 位置 d:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Business\QSDMS.Business\BaseManage\UserBLL.cs:行号 211
+   在 QSDMS.Application.Web.Controllers.LoginController.CheckLogin(String username, String password, String verifycode, Int32 autologin) 位置 d:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Application\QSDMS.Application.Web\Controllers\LoginController.cs:行号 131

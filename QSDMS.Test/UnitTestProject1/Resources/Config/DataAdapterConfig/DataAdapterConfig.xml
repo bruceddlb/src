@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigFile Desc="">
+  <DefaultDataAdapter File="EMS.Data.Service.SqlServer.dll" />
+  <Adapters>
+    <Adapter Interface="EMS.Data.IService.ITestService" File="EMS.Data.Service.SqlServer.dll">
+    </Adapter>   
+  </Adapters>
+</ConfigFile>

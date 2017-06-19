@@ -1,0 +1,110 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D954B0E5-53A0-4325-8043-E2C2884C6667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.Core", "CrystalQuartz.Core\CrystalQuartz.Core.csproj", "{9382E234-40E3-40D1-9A6F-5EF63CF09C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.Web", "CrystalQuartz.Web\CrystalQuartz.Web.csproj", "{DAD3549E-FC6D-4420-B391-CE923A3CAD30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.Web.Demo", "CrystalQuartz.Web.Demo\CrystalQuartz.Web.Demo.csproj", "{E2DDBC63-3540-4D6C-9D4E-9BAC19E9CCEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.Core.Tests", "CrystalQuartz.Core.Tests\CrystalQuartz.Core.Tests.csproj", "{99D49DE4-572E-4F3A-B969-EF6C61870B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.Build", "CrystalQuartz.Build\CrystalQuartz.Build.csproj", "{EBD232D1-39BA-41AE-9D20-CA3187D6351D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.WebFramework", "CrystalQuartz.WebFramework\CrystalQuartz.WebFramework.csproj", "{F222B378-08E8-4D5D-8663-4C7DF6DCCB35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.WebFramework.Tests", "CrystalQuartz.WebFramework.Tests\CrystalQuartz.WebFramework.Tests.csproj", "{07AFB56A-C38B-47CD-AF1E-CD6B4CCEB840}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{79E1569A-3B34-42C1-835D-9A15B4CE6E7F}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.Owin", "CrystalQuartz.Owin\CrystalQuartz.Owin.csproj", "{B52FE682-48F8-45D0-8D57-E74309B3326E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.Web.DemoOwin", "CrystalQuartz.Web.DemoOwin\CrystalQuartz.Web.DemoOwin.csproj", "{38E3A85B-AF46-4B86-A6F5-2D8CFD59841F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.WebFramework.SystemWeb", "CrystalQuartz.WebFramework.SystemWeb\CrystalQuartz.WebFramework.SystemWeb.csproj", "{6A5FBA3A-E08D-4388-B592-FEA447BF0D5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebFramework", "WebFramework", "{C71EB29F-604D-4AD9-8F33-DCFE203689A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.WebFramework.Owin", "CrystalQuartz.WebFramework.Owin\CrystalQuartz.WebFramework.Owin.csproj", "{9491BA61-BE01-432D-8C77-D7322DE4CD3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalQuartz.Application", "CrystalQuartz.Application\CrystalQuartz.Application.csproj", "{8F24D6F7-7AC8-4414-934C-F790243952A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{609AECA9-C389-40C0-A91F-3930932245C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9382E234-40E3-40D1-9A6F-5EF63CF09C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9382E234-40E3-40D1-9A6F-5EF63CF09C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9382E234-40E3-40D1-9A6F-5EF63CF09C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9382E234-40E3-40D1-9A6F-5EF63CF09C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD3549E-FC6D-4420-B391-CE923A3CAD30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD3549E-FC6D-4420-B391-CE923A3CAD30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD3549E-FC6D-4420-B391-CE923A3CAD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD3549E-FC6D-4420-B391-CE923A3CAD30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DDBC63-3540-4D6C-9D4E-9BAC19E9CCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DDBC63-3540-4D6C-9D4E-9BAC19E9CCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DDBC63-3540-4D6C-9D4E-9BAC19E9CCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DDBC63-3540-4D6C-9D4E-9BAC19E9CCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D49DE4-572E-4F3A-B969-EF6C61870B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D49DE4-572E-4F3A-B969-EF6C61870B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D49DE4-572E-4F3A-B969-EF6C61870B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D49DE4-572E-4F3A-B969-EF6C61870B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD232D1-39BA-41AE-9D20-CA3187D6351D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD232D1-39BA-41AE-9D20-CA3187D6351D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD232D1-39BA-41AE-9D20-CA3187D6351D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD232D1-39BA-41AE-9D20-CA3187D6351D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F222B378-08E8-4D5D-8663-4C7DF6DCCB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F222B378-08E8-4D5D-8663-4C7DF6DCCB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F222B378-08E8-4D5D-8663-4C7DF6DCCB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F222B378-08E8-4D5D-8663-4C7DF6DCCB35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AFB56A-C38B-47CD-AF1E-CD6B4CCEB840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AFB56A-C38B-47CD-AF1E-CD6B4CCEB840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AFB56A-C38B-47CD-AF1E-CD6B4CCEB840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AFB56A-C38B-47CD-AF1E-CD6B4CCEB840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52FE682-48F8-45D0-8D57-E74309B3326E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52FE682-48F8-45D0-8D57-E74309B3326E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52FE682-48F8-45D0-8D57-E74309B3326E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52FE682-48F8-45D0-8D57-E74309B3326E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E3A85B-AF46-4B86-A6F5-2D8CFD59841F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E3A85B-AF46-4B86-A6F5-2D8CFD59841F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E3A85B-AF46-4B86-A6F5-2D8CFD59841F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E3A85B-AF46-4B86-A6F5-2D8CFD59841F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5FBA3A-E08D-4388-B592-FEA447BF0D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5FBA3A-E08D-4388-B592-FEA447BF0D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5FBA3A-E08D-4388-B592-FEA447BF0D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5FBA3A-E08D-4388-B592-FEA447BF0D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9491BA61-BE01-432D-8C77-D7322DE4CD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9491BA61-BE01-432D-8C77-D7322DE4CD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9491BA61-BE01-432D-8C77-D7322DE4CD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9491BA61-BE01-432D-8C77-D7322DE4CD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F24D6F7-7AC8-4414-934C-F790243952A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F24D6F7-7AC8-4414-934C-F790243952A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F24D6F7-7AC8-4414-934C-F790243952A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F24D6F7-7AC8-4414-934C-F790243952A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DAD3549E-FC6D-4420-B391-CE923A3CAD30} = {609AECA9-C389-40C0-A91F-3930932245C4}
+		{99D49DE4-572E-4F3A-B969-EF6C61870B52} = {D954B0E5-53A0-4325-8043-E2C2884C6667}
+		{F222B378-08E8-4D5D-8663-4C7DF6DCCB35} = {C71EB29F-604D-4AD9-8F33-DCFE203689A6}
+		{07AFB56A-C38B-47CD-AF1E-CD6B4CCEB840} = {D954B0E5-53A0-4325-8043-E2C2884C6667}
+		{B52FE682-48F8-45D0-8D57-E74309B3326E} = {609AECA9-C389-40C0-A91F-3930932245C4}
+		{6A5FBA3A-E08D-4388-B592-FEA447BF0D5F} = {C71EB29F-604D-4AD9-8F33-DCFE203689A6}
+		{9491BA61-BE01-432D-8C77-D7322DE4CD3C} = {C71EB29F-604D-4AD9-8F33-DCFE203689A6}
+	EndGlobalSection
+EndGlobal

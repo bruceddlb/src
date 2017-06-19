@@ -1,0 +1,14 @@
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\QSDMS.Cache.Redis.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\QSDMS.Cache.Redis.pdb
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\QSDMS.Cache.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\ServiceStack.Common.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\ServiceStack.Interfaces.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\ServiceStack.Redis.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\ServiceStack.Text.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\QSDMS.Cache.pdb
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\ServiceStack.Common.xml
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\ServiceStack.Redis.xml
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\bin\Release\ServiceStack.Text.xml
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\obj\Release\QSDMS.Cache.Redis.csprojResolveAssemblyReference.cache
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\obj\Release\QSDMS.Cache.Redis.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Cache\QSDMS.Cache.Redis\obj\Release\QSDMS.Cache.Redis.pdb

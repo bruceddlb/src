@@ -1,0 +1,8 @@
+Quartz.NET properties loaded from configuration file 'D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Tasks\QSMS.Schedule\bin\Debug\quartz.config'Using default implementation for object serializerUsing default implementation for ThreadExecutorInitialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImplQuartz Scheduler v.2.3.3.0 created.Registering Quartz Job Initialization Plug-in.RAMJobStore initialized.Remoting is allowing remote callsRegistering remoting channel of type 'System.Runtime.Remoting.Channels.Tcp.TcpChannel' to port (555) with name (httpQuartz)Remoting channel registered successfullySuccessfully marshalled remotable scheduler under name 'QuartzScheduler'Scheduler meta-data: Quartz Scheduler (v2.3.3.0) '服务调度' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - access via remote invocation.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+Quartz scheduler '服务调度' initializedQuartz scheduler version: 2.3.3.0Parsing XML file: D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Tasks\QSMS.Schedule\bin\Debug\quartz_jobs.xml with systemId: ~/quartz_jobs.xmlScheduler 服务调度_$_NON_CLUSTERED started.Scheduler started successfully

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB8A43EE-17D0-4ACB-B7F9-FA100DEEC92F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConsoleAppTest</RootNamespace>
+    <AssemblyName>ConsoleAppTest</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <Content Include="Resources\Config\log4net.config" />
+    <Content Include="Resources\Config\redis.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\QSDMS.Business\QSDMS.Business\QSDMS.Business.csproj">
+      <Project>{f784fe53-4599-4ae6-9735-bf367829f27a}</Project>
+      <Name>QSDMS.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\QSDMS.DataAccess\QSDMS.Data.IService\QSDMS.Data.IService.csproj">
+      <Project>{0bac71e3-d1ec-47ca-a470-91398f43645b}</Project>
+      <Name>QSDMS.Data.IService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\QSDMS.DataAccess\QSDMS.Data.Service.SqlServer\QSDMS.Data.Service.SqlServer.csproj">
+      <Project>{3f15f70b-98f6-4d11-8664-b9c97a024cea}</Project>
+      <Name>QSDMS.Data.Service.SqlServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\QSDMS.FrameWork\iFramework.Business\iFramework.Business.csproj">
+      <Project>{197805da-efa6-43c9-8992-59a82273c5e2}</Project>
+      <Name>iFramework.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\QSDMS.FrameWork\iFramework.Framework\iFramework.Framework.csproj">
+      <Project>{9c1b08cf-25a4-4190-95d5-d35ea5da455f}</Project>
+      <Name>iFramework.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\QSDMS.Model\QSDMS.Model\QSDMS.Model.csproj">
+      <Project>{525ec8f0-d6a8-4680-8dbf-94244de469f2}</Project>
+      <Name>QSDMS.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\QSDMS.Util\QSDMS.Helper\QSDMS.Util.csproj">
+      <Project>{2e7b524e-e766-480f-9126-b54c0c10a0a4}</Project>
+      <Name>QSDMS.Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file contains job definitions in schema version 2.0 format -->
+
+<job-scheduling-data xmlns="http://quartznet.sourceforge.net/JobSchedulingData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+
+  <processing-directives>
+    <overwrite-existing-data>true</overwrite-existing-data>
+  </processing-directives>
+  <schedule>
+    
+    <job>
+      <name>TestJob</name>
+      <group>SettlementGroup</group>
+      <description>测试任务调度</description>
+      <job-type>QSDMS.Task.TestJob, QSDMS.Task</job-type>
+      <durable>true</durable>
+      <recover>false</recover>
+    </job>
+    <trigger>
+      <cron>
+        <name>SettlementTrigger</name>
+        <group>SettlementCron</group>
+        <description>Simple trigger to simply fire test job</description>
+        <job-name>TestJob</job-name>
+        <job-group>SettlementGroup</job-group>
+        <!--秒 分 时 日 月 (星期) 年-->
+        <cron-expression>1 0 0 * * ? *</cron-expression>
+      </cron>
+    </trigger>
+    <!--<trigger>
+      <cron>
+        <name>SettlementTrigger</name>
+        <group>SettlementCron</group>
+        <description>Simple trigger to simply fire sample job</description>
+        <job-name></job-name>
+        <job-group>SettlementGroup</job-group>
+        --><!--秒 分 时 日 月 (星期) 年--><!--
+        <cron-expression>1 0 0 * * FRI *</cron-expression>
+      </cron>
+    </trigger>
+    <trigger>
+      <cron>
+        <name>SettlementTrigger1</name>
+        <group>SettlementCron</group>
+        <description>Simple trigger to simply fire sample job</description>
+        <job-name>SyncOldOrderJob</job-name>
+        <job-group>SettlementGroup</job-group>
+        --><!--秒 分 时 日 月 (星期) 年--><!--
+        <cron-expression>1 0 1 * * ? *</cron-expression>
+      </cron>
+    </trigger>
+    <trigger>
+      <cron>
+        <name>SettlementTrigger2</name>
+        <group>SettlementCron</group>
+        <description>Simple trigger to simply fire sample job</description>
+        <job-name>DisposeOrderJob</job-name>
+        <job-group>SettlementGroup</job-group>
+        --><!--秒 分 时 日 月 (星期) 年--><!--
+        <cron-expression>1 0 2 * * ? *</cron-expression>
+      </cron>
+    </trigger>-->
+  </schedule>
+</job-scheduling-data>

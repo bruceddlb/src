@@ -1,0 +1,402 @@
+Date and Time:         2017-06-11 15:19:01
+Machine Name:          DLB
+Process User:          dlb\bruced
+Remote User:           
+Remote Address:        ::1
+Remote Host:           ::1
+URL:                   http://localhost:1351/AuthorizeManage/Module/RemoveForm
+
+NET Runtime version:   4.0.30319.42000
+Application Domain:    /LM/W3SVC/106/ROOT-1-131416391104210722
+
+    Assembly                       Version         BuildDate
+    --------                       -------         ---------
+    mscorlib.dll                   4.0.0.0         2016-07-16 19:44:20
+    System.Web.dll                 4.0.0.0         2016-07-16 19:44:19
+    System.dll                     4.0.0.0         2016-07-16 19:43:55
+    System.Core.dll                4.0.0.0         2016-07-16 19:43:57
+    System.Web.ApplicationServices.dll 4.0.0.0         2016-07-16 19:43:57
+    System.Configuration.dll       4.0.0.0         2016-07-16 19:43:53
+    System.Xml.dll                 4.0.0.0         2016-07-16 19:43:55
+    System.Runtime.Caching.dll     4.0.0.0         2016-07-16 19:43:59
+    Microsoft.Build.Utilities.v4.0.dll 4.0.0.0         2016-07-16 19:43:53
+    Microsoft.JScript.dll          10.0.0.0        2016-07-16 19:43:55
+    System.Web.WebPages.Deployment.dll 2.0.0.0         2016-10-07 20:31:31
+    Microsoft.VisualStudio.Web.PageInspector.Loader.dll 1.0.0.0         2016-10-07 20:29:52
+    Microsoft.CSharp.dll           4.0.0.0         2016-07-16 19:43:57
+    System.Data.dll                4.0.0.0         2016-12-02 09:40:19
+    System.Web.Services.dll        4.0.0.0         2016-07-16 19:43:57
+    System.Drawing.dll             4.0.0.0         2016-07-16 19:43:59
+    System.EnterpriseServices.dll  4.0.0.0         2016-07-16 19:44:20
+    System.IdentityModel.dll       4.0.0.0         2016-07-16 19:43:55
+    System.Runtime.Serialization.dll 4.0.0.0         2016-07-16 19:43:57
+    System.ServiceModel.dll        4.0.0.0         2016-07-16 19:43:55
+    System.ServiceModel.Activation.dll 4.0.0.0         2016-07-16 19:43:57
+    System.ServiceModel.Web.dll    4.0.0.0         2016-07-16 19:43:53
+    System.Activities.dll          4.0.0.0         2016-07-16 19:43:55
+    System.ServiceModel.Activities.dll 4.0.0.0         2016-07-16 19:43:55
+    System.WorkflowServices.dll    4.0.0.0         2016-07-16 19:43:53
+    System.Web.Extensions.dll      4.0.0.0         2016-07-16 19:43:53
+    System.Data.DataSetExtensions.dll 4.0.0.0         2016-07-16 19:43:53
+    System.Xml.Linq.dll            4.0.0.0         2016-07-16 19:43:57
+    System.ComponentModel.DataAnnotations.dll 4.0.0.0         2016-07-16 19:43:57
+    System.Web.DynamicData.dll     4.0.0.0         2016-07-16 19:43:55
+    AlibabaSms.DLL                 1.0.0.0         2017-06-11 15:18:31
+    AopSdk.DLL                     2.0.0.0         2017-06-11 15:18:31
+    CrystalQuartz.Core.DLL         4.0.0.0         2017-06-11 15:18:31
+    CrystalQuartz.Web.DLL          4.0.0.0         2017-06-11 15:18:31
+    ICSharpCode.SharpZipLib.DLL    0.86.0.518      2017-06-11 15:18:31
+    iFramework.Business.DLL        1.0.0.0         2017-06-11 15:18:31
+    iFramework.Framework.DLL       1.0.0.0         2017-06-11 15:18:31
+    Kaliko.ImageLibrary.DLL        3.0.1.0         2017-06-11 15:18:31
+    log4net.DLL                    1.2.13.0        2017-06-11 15:18:31
+    Microsoft.AspNet.Identity.Core.DLL 2.0.0.0         2017-06-11 15:18:31
+    Microsoft.AspNet.Identity.Owin.DLL 2.0.0.0         2017-06-11 15:18:31
+    Microsoft.Owin.DLL             3.0.1.0         2017-06-11 15:18:31
+    Microsoft.Owin.Security.Cookies.DLL 2.0.0.0         2017-06-11 15:18:31
+    Microsoft.Owin.Security.DLL    3.0.0.0         2017-06-11 15:18:31
+    Microsoft.Web.Infrastructure.dll 1.0.0.0         2016-10-07 20:30:57
+    Microsoft.Web.Mvc.FixedDisplayModes.DLL 1.0.0.0         2017-06-11 15:18:31
+    MySql.Data.DLL                 6.8.3.0         2017-06-11 15:18:31
+    Newtonsoft.Json.DLL            4.5.0.0         2017-06-11 15:18:31
+    NPOI.DLL                       2.1.3.1         2017-06-11 15:18:31
+    NPOI.OOXML.DLL                 2.1.3.1         2017-06-11 15:18:31
+    NPOI.OpenXml4Net.DLL           2.1.3.1         2017-06-11 15:18:31
+    NPOI.OpenXmlFormats.DLL        2.1.3.1         2017-06-11 15:18:31
+    Owin.DLL                       1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Application.Library.DLL  1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Application.Web.DLL      1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Business.Cache.DLL       1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Business.DLL             1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Cache.DLL                1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Cache.Factory.DLL        1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Cache.Redis.DLL          1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Data.IService.DLL        1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Data.Service.MySqlServer.DLL 1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Data.Service.SqlServer.DLL 1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Model.DLL                1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Util.DLL                 1.0.0.0         2017-06-11 15:18:31
+    Quartz.DLL                     2.3.3.0         2017-06-11 15:18:31
+    ServiceStack.Common.DLL        4.0.56.0        2017-06-11 15:18:31
+    ServiceStack.Interfaces.DLL    4.0.0.0         2017-06-11 15:18:31
+    ServiceStack.Redis.DLL         4.0.56.0        2017-06-11 15:18:31
+    ServiceStack.Text.DLL          4.0.56.0        2017-06-11 15:18:31
+    System.Web.Helpers.dll         2.0.0.0         2016-10-07 20:31:31
+    System.Web.Mvc.dll             4.0.0.1         2016-10-07 20:31:31
+    System.Web.Optimization.DLL    1.1.0.0         2017-06-11 15:18:31
+    System.Web.Razor.dll           2.0.0.0         2016-10-07 20:31:31
+    System.Web.WebPages.dll        2.0.0.0         2016-10-07 20:31:31
+    System.Web.WebPages.Razor.dll  2.0.0.0         2016-10-07 20:31:31
+    ThoughtWorks.QRCode.DLL        1.0.4778.30637  2013-01-30 17:01:14
+    TopSdk.DLL                     2.0.0.0         2017-06-11 15:18:32
+    System.Xaml.dll                4.0.0.0         2016-07-16 19:43:57
+    Microsoft.VisualStudio.Web.PageInspector.Runtime.dll 2.0.0.0         2016-10-07 20:29:52
+    Microsoft.VisualStudio.Web.PageInspector.Tracing.dll 2.0.0.0         2016-10-07 20:29:52
+    System.Web.RegularExpressions.dll 4.0.0.0         2016-07-16 19:43:53
+    System.Data.Services.Design.dll 4.0.0.0         2016-07-16 19:43:59
+    System.resources.dll           4.0.0.0         2016-07-17 06:32:11
+    System.Web.Http.WebHost.dll    4.0.0.0         2016-10-07 20:31:31
+    System.Web.Http.dll            4.0.0.0         2016-10-07 20:31:31
+    System.Web.DataVisualization.dll 4.0.0.0         2016-07-16 19:43:55
+    System.Data.SqlXml.dll         4.0.0.0         2016-07-16 19:43:57
+    System.ServiceModel.Internals.dll 4.0.0.0         2016-07-16 19:43:59
+    System.Runtime.DurableInstancing.dll 4.0.0.0         2016-07-16 19:43:53
+    System.Transactions.dll        4.0.0.0         2016-07-16 19:44:20
+    Microsoft.Build.Framework.dll  4.0.0.0         2016-07-16 19:43:55
+    System.Net.dll                 4.0.0.0         2016-07-16 19:43:53
+    System.Data.Linq.dll           4.0.0.0         2016-07-16 19:43:55
+    System.Net.Http.dll            4.0.0.0         2016-07-16 19:43:55
+    SMDiagnostics.dll              4.0.0.0         2016-07-16 19:43:57
+    Microsoft.VisualBasic.Activities.Compiler.dll 10.0.0.0        2016-07-16 19:44:20
+    System.Security.dll            4.0.0.0         2016-07-16 19:43:57
+    System.Workflow.Runtime.dll    4.0.0.0         2016-07-16 19:43:57
+    System.Workflow.ComponentModel.dll 4.0.0.0         2016-07-16 19:43:57
+    System.Workflow.Activities.dll 4.0.0.0         2016-07-16 19:43:59
+    System.Windows.Forms.dll       4.0.0.0         2016-07-16 19:43:55
+    System.Configuration.Install.dll 4.0.0.0         2016-07-16 19:43:55
+    System.Xaml.Hosting.dll        4.0.0.0         2016-07-16 19:43:55
+    System.Web.Mvc.resources.dll   4.0.0.0         2016-10-07 20:31:31
+    System.Net.Http.Formatting.dll 4.0.0.0         2016-10-07 20:31:30
+    System.Web.Mobile.dll          4.0.0.0         2016-07-16 19:43:57
+    Microsoft.VisualStudio.Web.PageInspector.HtmlParser.dll 2.0.0.0         2016-10-07 20:29:51
+                                                   
+    System.Web.Razor.resources.dll 2.0.0.0         2016-10-07 20:31:31
+    System.Web.resources.dll       4.0.0.0         2016-07-17 06:32:11
+    System.Dynamic.dll             4.0.0.0         2016-07-16 19:43:59
+    System.Numerics.dll            4.0.0.0         2016-07-16 19:43:55
+    System.Data.OracleClient.dll   4.0.0.0         2016-07-16 19:44:20
+    System.Data.resources.dll      4.0.0.0         2016-07-17 06:32:12
+    Microsoft.CSharp.resources.dll 4.0.0.0         2016-07-17 06:32:12
+    Microsoft.IdentityModel.dll    3.5.0.0         2016-10-07 20:11:05
+
+Exception Type:         System.Exception
+Exception Message:         当前所选数据有子节点数据！
+Exception Data:         {}
+Exception Source:         QSDMS.Data.Service.SqlServer
+Exception Target Site:         RemoveForm
+
+---- Stack Trace ----
+   QSDMS.Data.Service.SqlServer.ModuleService.RemoveForm(System.String keyValue)
+       ModuleService.cs: line 0122, col 17, IL 0236
+   QSDMS.Business.ModuleBLL.RemoveForm(System.String keyValue)
+       ModuleBLL.cs: line 0105, col 17, IL 0020
+
+
+---- ASP.NET Collections ----
+
+Form
+
+    keyValue                      7cec0a0f-7204-4240-b009-312fa0c11cbf
+    __RequestVerificationToken    fUKJTeaCnWJ6z2EKMpCOfDc1wNxD0N7pISMwOkxuvwt80PbVPENRpoQRVXzmKO50dUfLl0QoHNe887IjUOBDjvQaNSXxwz6JCxCGsG4Oty81
+
+Cookies
+
+    km_mall_member_account        8205FB64C8DF41C211E596877BC45F489357505152E3C9F246F8C6615FD73F054F59441D13252DBC3193B8056DACC573900583665F10178A458C17302604AC85810E243205FB67D2B45AC02E24D4B5E87B2D70B56EB9F32ED10FE154160A55D044A09A57B6D66AF4C33524BE9F142524B88E2235F742F5FD910AC9E0DB4AB7C2572F130E6F9D247AAA8978639922ECAB18426EA1BED4159E3D052BF5EBB676CA
+    ASP.NET_SessionId             kxeo3kopp4f3fx413oq52rah
+    QSDMS_LoginUserKey_2016       13C2C1A702AE2DE04DA41DDD7443385A9FBFF771C51CC631FB246AB09F146C8E5E25D1C9A8C1CB8D5B81D4F24223287719D854EA10D77A3BC10E9B9783C006527312105035751E5386976279F01D285D81C85280F6AB5159D8A91B5AE6EED155681EB0FDE39BC15CF9385EC9A5504C1C280519A49C37EFE0CAD97B57A0D82DC19DCD50BDC9FEEF2BB9D8B1020DEE91EA08DB89423BB36C8D12E99DCA42EF4C49D3AC599D5EEDB1E23F6F4BCDBF0E9ECF0E59B62C9505B39964C7AC9DD38DB1D516B4718A07A94C94645A329E2D7A45AFF3019A2CACBC48486289F9A33E542F28C1DB741EC7B432B46B9DB373042BB08A710FEFFD680F787AE56EC96C0F234EDCA5C7323518AED547A8C971F730537ED5C6F20B8DABB43200E42CECAA9AF2AEF2B1F9C8E157B7756B384FD68C99CD4D33BDE92A56FD4FBB1E0D87431920F34BD52BF6FC0DDA62486098BB08FE02351CAF970201065001E7577CB52BA6EDF0E213153D8236EBC966B77DE17C390B9509D25B8E544CD44A6B8B0A3B8E677E127AD8D1BD81A02B4F486D3B89A08C080FD31497E6405CC1D7CF42B6A415EB18FF047BDB4D24ABCDED112E96772DD2ADD74965F7DA6BBAE9866F761DBD09411E0C2AFF83F8FC7DB4EF48DCB232263339999F55F78376C7C6C16BBD04AC55503F5B47DCC4612D0579338EF1232541B4A2950961F207ACCF9AC120E17689E918635B17938D5BD237A9880BAE0232A4000313E7415C49A527206EF25A03097EDE0637FCEC71BB68345F41F375D2969004587321D4A5FC108E5E7AC7FBB505B198DCD8DB48E2D4507CA006EFA651CD05F9CD14C2065924821A99B5775F6641ED3569693A8F53549AA733A506579E80C2688995B700BB552B7E3EB4D9BF8BAC9AD32471870FE0B93130AA4A2B0F3CD5DDD154A778F78287535ADF19D1D8D826AC8AB0F289AD24EF49BFC1E2C7F61A1CDA3E7DE36D31C2CABD54AE1A61FE19026052D24C36AA6BCBF9508A9A41C6226CC20B6918F20CD15E6F56AF6CEA50319889B1683D1846BF43F1418C17DDC23765F24965CD411BDDBC0DB266EFBDB7227152129E7FA8082A490CC8DE43685A10D36A259DCCAA68B59C261050DAF7CF793909774400DC463414171870A0ACA28C3A2726FA785324
+    __RequestVerificationToken    mtogHzfqGPAXGET-xNNbS5gqEabfLhMI0Vm6vIrR2nqxt66pN4rlWdMMCF71cEi4zeEUGWNhkaVonqmChBRehUGjySNVKTtluqE2Lwtw-Aw1
+    currentmoduleId               21
+
+Session
+
+    session_verifycode            F8BE8C4795BD6F0F
+
+ServerVariables
+
+    APPL_MD_PATH                  /LM/W3SVC/106/ROOT
+    APPL_PHYSICAL_PATH            D:\01workspace\10Project\src\EMS\src\QSDMS.Application\QSDMS.Application.Web\
+    CONTENT_LENGTH                181
+    CONTENT_TYPE                  application/x-www-form-urlencoded; charset=UTF-8
+    GATEWAY_INTERFACE             CGI/1.1
+    HTTPS                         off
+    INSTANCE_ID                   106
+    INSTANCE_META_PATH            /LM/W3SVC/106
+    LOCAL_ADDR                    ::1
+    PATH_INFO                     /AuthorizeManage/Module/RemoveForm
+    PATH_TRANSLATED               D:\01workspace\10Project\src\EMS\src\QSDMS.Application\QSDMS.Application.Web\AuthorizeManage\Module\RemoveForm
+    REMOTE_ADDR                   ::1
+    REMOTE_HOST                   ::1
+    REMOTE_PORT                   23685
+    REQUEST_METHOD                POST
+    SCRIPT_NAME                   /AuthorizeManage/Module/RemoveForm
+    SERVER_NAME                   localhost
+    SERVER_PORT                   1351
+    SERVER_PORT_SECURE            0
+    SERVER_PROTOCOL               HTTP/1.1
+    SERVER_SOFTWARE               Microsoft-IIS/8.0
+    URL                           /AuthorizeManage/Module/RemoveForm
+    HTTP_CONNECTION               keep-alive
+    HTTP_CONTENT_LENGTH           181
+    HTTP_CONTENT_TYPE             application/x-www-form-urlencoded; charset=UTF-8
+    HTTP_ACCEPT                   application/json, text/javascript, */*; q=0.01
+    HTTP_ACCEPT_ENCODING          gzip, deflate
+    HTTP_ACCEPT_LANGUAGE          zh-CN,zh;q=0.8
+    HTTP_COOKIE                   km_mall_member_account=8205FB64C8DF41C211E596877BC45F489357505152E3C9F246F8C6615FD73F054F59441D13252DBC3193B8056DACC573900583665F10178A458C17302604AC85810E243205FB67D2B45AC02E24D4B5E87B2D70B56EB9F32ED10FE154160A55D044A09A57B6D66AF4C33524BE9F142524B88E2235F742F5FD910AC9E0DB4AB7C2572F130E6F9D247AAA8978639922ECAB18426EA1BED4159E3D052BF5EBB676CA; ASP.NET_SessionId=kxeo3kopp4f3fx413oq52rah; QSDMS_LoginUserKey_2016=13C2C1A702AE2DE04DA41DDD7443385A9FBFF771C51CC631FB246AB09F146C8E5E25D1C9A8C1CB8D5B81D4F24223287719D854EA10D77A3BC10E9B9783C006527312105035751E5386976279F01D285D81C85280F6AB5159D8A91B5AE6EED155681EB0FDE39BC15CF9385EC9A5504C1C280519A49C37EFE0CAD97B57A0D82DC19DCD50BDC9FEEF2BB9D8B1020DEE91EA08DB89423BB36C8D12E99DCA42EF4C49D3AC599D5EEDB1E23F6F4BCDBF0E9ECF0E59B62C9505B39964C7AC9DD38DB1D516B4718A07A94C94645A329E2D7A45AFF3019A2CACBC48486289F9A33E542F28C1DB741EC7B432B46B9DB373042BB08A710FEFFD680F787AE56EC96C0F234EDCA5C7323518AED547A8C971F730537ED5C6F20B8DABB43200E42CECAA9AF2AEF2B1F9C8E157B7756B384FD68C99CD4D33BDE92A56FD4FBB1E0D87431920F34BD52BF6FC0DDA62486098BB08FE02351CAF970201065001E7577CB52BA6EDF0E213153D8236EBC966B77DE17C390B9509D25B8E544CD44A6B8B0A3B8E677E127AD8D1BD81A02B4F486D3B89A08C080FD31497E6405CC1D7CF42B6A415EB18FF047BDB4D24ABCDED112E96772DD2ADD74965F7DA6BBAE9866F761DBD09411E0C2AFF83F8FC7DB4EF48DCB232263339999F55F78376C7C6C16BBD04AC55503F5B47DCC4612D0579338EF1232541B4A2950961F207ACCF9AC120E17689E918635B17938D5BD237A9880BAE0232A4000313E7415C49A527206EF25A03097EDE0637FCEC71BB68345F41F375D2969004587321D4A5FC108E5E7AC7FBB505B198DCD8DB48E2D4507CA006EFA651CD05F9CD14C2065924821A99B5775F6641ED3569693A8F53549AA733A506579E80C2688995B700BB552B7E3EB4D9BF8BAC9AD32471870FE0B93130AA4A2B0F3CD5DDD154A778F78287535ADF19D1D8D826AC8AB0F289AD24EF49BFC1E2C7F61A1CDA3E7DE36D31C2CABD54AE1A61FE19026052D24C36AA6BCBF9508A9A41C6226CC20B6918F20CD15E6F56AF6CEA50319889B1683D1846BF43F1418C17DDC23765F24965CD411BDDBC0DB266EFBDB7227152129E7FA8082A490CC8DE43685A10D36A259DCCAA68B59C261050DAF7CF793909774400DC463414171870A0ACA28C3A2726FA785324; __RequestVerificationToken=mtogHzfqGPAXGET-xNNbS5gqEabfLhMI0Vm6vIrR2nqxt66pN4rlWdMMCF71cEi4zeEUGWNhkaVonqmChBRehUGjySNVKTtluqE2Lwtw-Aw1; currentmoduleId=21
+    HTTP_HOST                     localhost:1351
+    HTTP_REFERER                  http://localhost:1351/AuthorizeManage/Module/Index
+    HTTP_USER_AGENT               Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+    HTTP_ORIGIN                   http://localhost:1351
+    HTTP_X_REQUESTED_WITH         XMLHttpRequest
+
+
+Date and Time:         2017-06-11 15:20:31
+Machine Name:          DLB
+Process User:          dlb\bruced
+Remote User:           
+Remote Address:        ::1
+Remote Host:           ::1
+URL:                   http://localhost:1351/AuthorizeManage/Module/RemoveForm
+
+NET Runtime version:   4.0.30319.42000
+Application Domain:    /LM/W3SVC/106/ROOT-1-131416391104210722
+
+    Assembly                       Version         BuildDate
+    --------                       -------         ---------
+    mscorlib.dll                   4.0.0.0         2016-07-16 19:44:20
+    System.Web.dll                 4.0.0.0         2016-07-16 19:44:19
+    System.dll                     4.0.0.0         2016-07-16 19:43:55
+    System.Core.dll                4.0.0.0         2016-07-16 19:43:57
+    System.Web.ApplicationServices.dll 4.0.0.0         2016-07-16 19:43:57
+    System.Configuration.dll       4.0.0.0         2016-07-16 19:43:53
+    System.Xml.dll                 4.0.0.0         2016-07-16 19:43:55
+    System.Runtime.Caching.dll     4.0.0.0         2016-07-16 19:43:59
+    Microsoft.Build.Utilities.v4.0.dll 4.0.0.0         2016-07-16 19:43:53
+    Microsoft.JScript.dll          10.0.0.0        2016-07-16 19:43:55
+    System.Web.WebPages.Deployment.dll 2.0.0.0         2016-10-07 20:31:31
+    Microsoft.VisualStudio.Web.PageInspector.Loader.dll 1.0.0.0         2016-10-07 20:29:52
+    Microsoft.CSharp.dll           4.0.0.0         2016-07-16 19:43:57
+    System.Data.dll                4.0.0.0         2016-12-02 09:40:19
+    System.Web.Services.dll        4.0.0.0         2016-07-16 19:43:57
+    System.Drawing.dll             4.0.0.0         2016-07-16 19:43:59
+    System.EnterpriseServices.dll  4.0.0.0         2016-07-16 19:44:20
+    System.IdentityModel.dll       4.0.0.0         2016-07-16 19:43:55
+    System.Runtime.Serialization.dll 4.0.0.0         2016-07-16 19:43:57
+    System.ServiceModel.dll        4.0.0.0         2016-07-16 19:43:55
+    System.ServiceModel.Activation.dll 4.0.0.0         2016-07-16 19:43:57
+    System.ServiceModel.Web.dll    4.0.0.0         2016-07-16 19:43:53
+    System.Activities.dll          4.0.0.0         2016-07-16 19:43:55
+    System.ServiceModel.Activities.dll 4.0.0.0         2016-07-16 19:43:55
+    System.WorkflowServices.dll    4.0.0.0         2016-07-16 19:43:53
+    System.Web.Extensions.dll      4.0.0.0         2016-07-16 19:43:53
+    System.Data.DataSetExtensions.dll 4.0.0.0         2016-07-16 19:43:53
+    System.Xml.Linq.dll            4.0.0.0         2016-07-16 19:43:57
+    System.ComponentModel.DataAnnotations.dll 4.0.0.0         2016-07-16 19:43:57
+    System.Web.DynamicData.dll     4.0.0.0         2016-07-16 19:43:55
+    AlibabaSms.DLL                 1.0.0.0         2017-06-11 15:18:31
+    AopSdk.DLL                     2.0.0.0         2017-06-11 15:18:31
+    CrystalQuartz.Core.DLL         4.0.0.0         2017-06-11 15:18:31
+    CrystalQuartz.Web.DLL          4.0.0.0         2017-06-11 15:18:31
+    ICSharpCode.SharpZipLib.DLL    0.86.0.518      2017-06-11 15:18:31
+    iFramework.Business.DLL        1.0.0.0         2017-06-11 15:18:31
+    iFramework.Framework.DLL       1.0.0.0         2017-06-11 15:18:31
+    Kaliko.ImageLibrary.DLL        3.0.1.0         2017-06-11 15:18:31
+    log4net.DLL                    1.2.13.0        2017-06-11 15:18:31
+    Microsoft.AspNet.Identity.Core.DLL 2.0.0.0         2017-06-11 15:18:31
+    Microsoft.AspNet.Identity.Owin.DLL 2.0.0.0         2017-06-11 15:18:31
+    Microsoft.Owin.DLL             3.0.1.0         2017-06-11 15:18:31
+    Microsoft.Owin.Security.Cookies.DLL 2.0.0.0         2017-06-11 15:18:31
+    Microsoft.Owin.Security.DLL    3.0.0.0         2017-06-11 15:18:31
+    Microsoft.Web.Infrastructure.dll 1.0.0.0         2016-10-07 20:30:57
+    Microsoft.Web.Mvc.FixedDisplayModes.DLL 1.0.0.0         2017-06-11 15:18:31
+    MySql.Data.DLL                 6.8.3.0         2017-06-11 15:18:31
+    Newtonsoft.Json.DLL            4.5.0.0         2017-06-11 15:18:31
+    NPOI.DLL                       2.1.3.1         2017-06-11 15:18:31
+    NPOI.OOXML.DLL                 2.1.3.1         2017-06-11 15:18:31
+    NPOI.OpenXml4Net.DLL           2.1.3.1         2017-06-11 15:18:31
+    NPOI.OpenXmlFormats.DLL        2.1.3.1         2017-06-11 15:18:31
+    Owin.DLL                       1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Application.Library.DLL  1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Application.Web.DLL      1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Business.Cache.DLL       1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Business.DLL             1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Cache.DLL                1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Cache.Factory.DLL        1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Cache.Redis.DLL          1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Data.IService.DLL        1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Data.Service.MySqlServer.DLL 1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Data.Service.SqlServer.DLL 1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Model.DLL                1.0.0.0         2017-06-11 15:18:31
+    QSDMS.Util.DLL                 1.0.0.0         2017-06-11 15:18:31
+    Quartz.DLL                     2.3.3.0         2017-06-11 15:18:31
+    ServiceStack.Common.DLL        4.0.56.0        2017-06-11 15:18:31
+    ServiceStack.Interfaces.DLL    4.0.0.0         2017-06-11 15:18:31
+    ServiceStack.Redis.DLL         4.0.56.0        2017-06-11 15:18:31
+    ServiceStack.Text.DLL          4.0.56.0        2017-06-11 15:18:31
+    System.Web.Helpers.dll         2.0.0.0         2016-10-07 20:31:31
+    System.Web.Mvc.dll             4.0.0.1         2016-10-07 20:31:31
+    System.Web.Optimization.DLL    1.1.0.0         2017-06-11 15:18:31
+    System.Web.Razor.dll           2.0.0.0         2016-10-07 20:31:31
+    System.Web.WebPages.dll        2.0.0.0         2016-10-07 20:31:31
+    System.Web.WebPages.Razor.dll  2.0.0.0         2016-10-07 20:31:31
+    ThoughtWorks.QRCode.DLL        1.0.4778.30637  2013-01-30 17:01:14
+    TopSdk.DLL                     2.0.0.0         2017-06-11 15:18:32
+    System.Xaml.dll                4.0.0.0         2016-07-16 19:43:57
+    Microsoft.VisualStudio.Web.PageInspector.Runtime.dll 2.0.0.0         2016-10-07 20:29:52
+    Microsoft.VisualStudio.Web.PageInspector.Tracing.dll 2.0.0.0         2016-10-07 20:29:52
+    System.Web.RegularExpressions.dll 4.0.0.0         2016-07-16 19:43:53
+    System.Data.Services.Design.dll 4.0.0.0         2016-07-16 19:43:59
+    System.resources.dll           4.0.0.0         2016-07-17 06:32:11
+    System.Web.Http.WebHost.dll    4.0.0.0         2016-10-07 20:31:31
+    System.Web.Http.dll            4.0.0.0         2016-10-07 20:31:31
+    System.Web.DataVisualization.dll 4.0.0.0         2016-07-16 19:43:55
+    System.Data.SqlXml.dll         4.0.0.0         2016-07-16 19:43:57
+    System.ServiceModel.Internals.dll 4.0.0.0         2016-07-16 19:43:59
+    System.Runtime.DurableInstancing.dll 4.0.0.0         2016-07-16 19:43:53
+    System.Transactions.dll        4.0.0.0         2016-07-16 19:44:20
+    Microsoft.Build.Framework.dll  4.0.0.0         2016-07-16 19:43:55
+    System.Net.dll                 4.0.0.0         2016-07-16 19:43:53
+    System.Data.Linq.dll           4.0.0.0         2016-07-16 19:43:55
+    System.Net.Http.dll            4.0.0.0         2016-07-16 19:43:55
+    SMDiagnostics.dll              4.0.0.0         2016-07-16 19:43:57
+    Microsoft.VisualBasic.Activities.Compiler.dll 10.0.0.0        2016-07-16 19:44:20
+    System.Security.dll            4.0.0.0         2016-07-16 19:43:57
+    System.Workflow.Runtime.dll    4.0.0.0         2016-07-16 19:43:57
+    System.Workflow.ComponentModel.dll 4.0.0.0         2016-07-16 19:43:57
+    System.Workflow.Activities.dll 4.0.0.0         2016-07-16 19:43:59
+    System.Windows.Forms.dll       4.0.0.0         2016-07-16 19:43:55
+    System.Configuration.Install.dll 4.0.0.0         2016-07-16 19:43:55
+    System.Xaml.Hosting.dll        4.0.0.0         2016-07-16 19:43:55
+    System.Web.Mvc.resources.dll   4.0.0.0         2016-10-07 20:31:31
+    System.Net.Http.Formatting.dll 4.0.0.0         2016-10-07 20:31:30
+    System.Web.Mobile.dll          4.0.0.0         2016-07-16 19:43:57
+    Microsoft.VisualStudio.Web.PageInspector.HtmlParser.dll 2.0.0.0         2016-10-07 20:29:51
+                                                   
+    System.Web.Razor.resources.dll 2.0.0.0         2016-10-07 20:31:31
+    System.Web.resources.dll       4.0.0.0         2016-07-17 06:32:11
+    System.Dynamic.dll             4.0.0.0         2016-07-16 19:43:59
+    System.Numerics.dll            4.0.0.0         2016-07-16 19:43:55
+    System.Data.OracleClient.dll   4.0.0.0         2016-07-16 19:44:20
+    System.Data.resources.dll      4.0.0.0         2016-07-17 06:32:12
+    Microsoft.CSharp.resources.dll 4.0.0.0         2016-07-17 06:32:12
+    Microsoft.IdentityModel.dll    3.5.0.0         2016-10-07 20:11:05
+
+Exception Type:         System.Exception
+Exception Message:         当前所选数据有子节点数据！
+Exception Data:         {}
+Exception Source:         QSDMS.Data.Service.SqlServer
+Exception Target Site:         RemoveForm
+
+---- Stack Trace ----
+   QSDMS.Data.Service.SqlServer.ModuleService.RemoveForm(System.String keyValue)
+       ModuleService.cs: line 0122, col 17, IL 0236
+   QSDMS.Business.ModuleBLL.RemoveForm(System.String keyValue)
+       ModuleBLL.cs: line 0105, col 17, IL 0020
+
+
+---- ASP.NET Collections ----
+
+Form
+
+    keyValue                      b5cb98f6-fb41-4a0f-bc11-469ff117a411
+    __RequestVerificationToken    CJhby_eckkcbZIDG_DC092N70uG4_kvrt-PwSQOoyUJDROHNpB0DF-orkxGNNRU7EkRxgp2QMRm6hWLaCQ2RtDnjYTmL8LIskyR4PQr3PGo1
+
+Cookies
+
+    km_mall_member_account        8205FB64C8DF41C211E596877BC45F489357505152E3C9F246F8C6615FD73F054F59441D13252DBC3193B8056DACC573900583665F10178A458C17302604AC85810E243205FB67D2B45AC02E24D4B5E87B2D70B56EB9F32ED10FE154160A55D044A09A57B6D66AF4C33524BE9F142524B88E2235F742F5FD910AC9E0DB4AB7C2572F130E6F9D247AAA8978639922ECAB18426EA1BED4159E3D052BF5EBB676CA
+    ASP.NET_SessionId             kxeo3kopp4f3fx413oq52rah
+    QSDMS_LoginUserKey_2016       13C2C1A702AE2DE04DA41DDD7443385A9FBFF771C51CC631FB246AB09F146C8E5E25D1C9A8C1CB8D5B81D4F24223287719D854EA10D77A3BC10E9B9783C006527312105035751E5386976279F01D285D81C85280F6AB5159D8A91B5AE6EED155681EB0FDE39BC15CF9385EC9A5504C1C280519A49C37EFE0CAD97B57A0D82DC19DCD50BDC9FEEF2BB9D8B1020DEE91EA08DB89423BB36C8D12E99DCA42EF4C49D3AC599D5EEDB1E23F6F4BCDBF0E9ECF0E59B62C9505B39964C7AC9DD38DB1D516B4718A07A94C94645A329E2D7A45AFF3019A2CACBC48486289F9A33E542F28C1DB741EC7B432B46B9DB373042BB08A710FEFFD680F787AE56EC96C0F234EDCA5C7323518AED547A8C971F730537ED5C6F20B8DABB43200E42CECAA9AF2AEF2B1F9C8E157B7756B384FD68C99CD4D33BDE92A56FD4FBB1E0D87431920F34BD52BF6FC0DDA62486098BB08FE02351CAF970201065001E7577CB52BA6EDF0E213153D8236EBC966B77DE17C390B9509D25B8E544CD44A6B8B0A3B8E677E127AD8D1BD81A02B4F486D3B89A08C080FD31497E6405CC1D7CF42B6A415EB18FF047BDB4D24ABCDED112E96772DD2ADD74965F7DA6BBAE9866F761DBD09411E0C2AFF83F8FC7DB4EF48DCB232263339999F55F78376C7C6C16BBD04AC55503F5B47DCC4612D0579338EF1232541B4A2950961F207ACCF9AC120E17689E918635B17938D5BD237A9880BAE0232A4000313E7415C49A527206EF25A03097EDE0637FCEC71BB68345F41F375D2969004587321D4A5FC108E5E7AC7FBB505B198DCD8DB48E2D4507CA006EFA651CD05F9CD14C2065924821A99B5775F6641ED3569693A8F53549AA733A506579E80C2688995B700BB552B7E3EB4D9BF8BAC9AD32471870FE0B93130AA4A2B0F3CD5DDD154A778F78287535ADF19D1D8D826AC8AB0F289AD24EF49BFC1E2C7F61A1CDA3E7DE36D31C2CABD54AE1A61FE19026052D24C36AA6BCBF9508A9A41C6226CC20B6918F20CD15E6F56AF6CEA50319889B1683D1846BF43F1418C17DDC23765F24965CD411BDDBC0DB266EFBDB7227152129E7FA8082A490CC8DE43685A10D36A259DCCAA68B59C261050DAF7CF793909774400DC463414171870A0ACA28C3A2726FA785324
+    __RequestVerificationToken    mtogHzfqGPAXGET-xNNbS5gqEabfLhMI0Vm6vIrR2nqxt66pN4rlWdMMCF71cEi4zeEUGWNhkaVonqmChBRehUGjySNVKTtluqE2Lwtw-Aw1
+    currentmoduleId               21
+
+Session
+
+    session_verifycode            F8BE8C4795BD6F0F
+
+ServerVariables
+
+    APPL_MD_PATH                  /LM/W3SVC/106/ROOT
+    APPL_PHYSICAL_PATH            D:\01workspace\10Project\src\EMS\src\QSDMS.Application\QSDMS.Application.Web\
+    CONTENT_LENGTH                181
+    CONTENT_TYPE                  application/x-www-form-urlencoded; charset=UTF-8
+    GATEWAY_INTERFACE             CGI/1.1
+    HTTPS                         off
+    INSTANCE_ID                   106
+    INSTANCE_META_PATH            /LM/W3SVC/106
+    LOCAL_ADDR                    ::1
+    PATH_INFO                     /AuthorizeManage/Module/RemoveForm
+    PATH_TRANSLATED               D:\01workspace\10Project\src\EMS\src\QSDMS.Application\QSDMS.Application.Web\AuthorizeManage\Module\RemoveForm
+    REMOTE_ADDR                   ::1
+    REMOTE_HOST                   ::1
+    REMOTE_PORT                   23693
+    REQUEST_METHOD                POST
+    SCRIPT_NAME                   /AuthorizeManage/Module/RemoveForm
+    SERVER_NAME                   localhost
+    SERVER_PORT                   1351
+    SERVER_PORT_SECURE            0
+    SERVER_PROTOCOL               HTTP/1.1
+    SERVER_SOFTWARE               Microsoft-IIS/8.0
+    URL                           /AuthorizeManage/Module/RemoveForm
+    HTTP_CONNECTION               keep-alive
+    HTTP_CONTENT_LENGTH           181
+    HTTP_CONTENT_TYPE             application/x-www-form-urlencoded; charset=UTF-8
+    HTTP_ACCEPT                   application/json, text/javascript, */*; q=0.01
+    HTTP_ACCEPT_ENCODING          gzip, deflate
+    HTTP_ACCEPT_LANGUAGE          zh-CN,zh;q=0.8
+    HTTP_COOKIE                   km_mall_member_account=8205FB64C8DF41C211E596877BC45F489357505152E3C9F246F8C6615FD73F054F59441D13252DBC3193B8056DACC573900583665F10178A458C17302604AC85810E243205FB67D2B45AC02E24D4B5E87B2D70B56EB9F32ED10FE154160A55D044A09A57B6D66AF4C33524BE9F142524B88E2235F742F5FD910AC9E0DB4AB7C2572F130E6F9D247AAA8978639922ECAB18426EA1BED4159E3D052BF5EBB676CA; ASP.NET_SessionId=kxeo3kopp4f3fx413oq52rah; QSDMS_LoginUserKey_2016=13C2C1A702AE2DE04DA41DDD7443385A9FBFF771C51CC631FB246AB09F146C8E5E25D1C9A8C1CB8D5B81D4F24223287719D854EA10D77A3BC10E9B9783C006527312105035751E5386976279F01D285D81C85280F6AB5159D8A91B5AE6EED155681EB0FDE39BC15CF9385EC9A5504C1C280519A49C37EFE0CAD97B57A0D82DC19DCD50BDC9FEEF2BB9D8B1020DEE91EA08DB89423BB36C8D12E99DCA42EF4C49D3AC599D5EEDB1E23F6F4BCDBF0E9ECF0E59B62C9505B39964C7AC9DD38DB1D516B4718A07A94C94645A329E2D7A45AFF3019A2CACBC48486289F9A33E542F28C1DB741EC7B432B46B9DB373042BB08A710FEFFD680F787AE56EC96C0F234EDCA5C7323518AED547A8C971F730537ED5C6F20B8DABB43200E42CECAA9AF2AEF2B1F9C8E157B7756B384FD68C99CD4D33BDE92A56FD4FBB1E0D87431920F34BD52BF6FC0DDA62486098BB08FE02351CAF970201065001E7577CB52BA6EDF0E213153D8236EBC966B77DE17C390B9509D25B8E544CD44A6B8B0A3B8E677E127AD8D1BD81A02B4F486D3B89A08C080FD31497E6405CC1D7CF42B6A415EB18FF047BDB4D24ABCDED112E96772DD2ADD74965F7DA6BBAE9866F761DBD09411E0C2AFF83F8FC7DB4EF48DCB232263339999F55F78376C7C6C16BBD04AC55503F5B47DCC4612D0579338EF1232541B4A2950961F207ACCF9AC120E17689E918635B17938D5BD237A9880BAE0232A4000313E7415C49A527206EF25A03097EDE0637FCEC71BB68345F41F375D2969004587321D4A5FC108E5E7AC7FBB505B198DCD8DB48E2D4507CA006EFA651CD05F9CD14C2065924821A99B5775F6641ED3569693A8F53549AA733A506579E80C2688995B700BB552B7E3EB4D9BF8BAC9AD32471870FE0B93130AA4A2B0F3CD5DDD154A778F78287535ADF19D1D8D826AC8AB0F289AD24EF49BFC1E2C7F61A1CDA3E7DE36D31C2CABD54AE1A61FE19026052D24C36AA6BCBF9508A9A41C6226CC20B6918F20CD15E6F56AF6CEA50319889B1683D1846BF43F1418C17DDC23765F24965CD411BDDBC0DB266EFBDB7227152129E7FA8082A490CC8DE43685A10D36A259DCCAA68B59C261050DAF7CF793909774400DC463414171870A0ACA28C3A2726FA785324; __RequestVerificationToken=mtogHzfqGPAXGET-xNNbS5gqEabfLhMI0Vm6vIrR2nqxt66pN4rlWdMMCF71cEi4zeEUGWNhkaVonqmChBRehUGjySNVKTtluqE2Lwtw-Aw1; currentmoduleId=21
+    HTTP_HOST                     localhost:1351
+    HTTP_REFERER                  http://localhost:1351/AuthorizeManage/Module/Index
+    HTTP_USER_AGENT               Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+    HTTP_ORIGIN                   http://localhost:1351
+    HTTP_X_REQUESTED_WITH         XMLHttpRequest
+
+

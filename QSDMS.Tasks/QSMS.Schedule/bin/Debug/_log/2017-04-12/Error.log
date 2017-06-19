@@ -1,0 +1,17 @@
+Server initialization failed:未能加载文件或程序集“Common.Logging.Core, Version=3.0.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e”或它的某一个依赖项。系统找不到指定的文件。Server initialization failed:未能加载文件或程序集“Common.Logging.Core, Version=3.0.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e”或它的某一个依赖项。系统找不到指定的文件。Error scheduling jobs: 未能加载文件或程序集“Km.Tasks”或它的某一个依赖项。系统找不到指定的文件。System.IO.FileNotFoundException: 未能加载文件或程序集“Km.Tasks”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Km.Tasks”
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   在 System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   在 System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   在 System.Type.GetType(String typeName, Boolean throwOnError)
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name) 位置 c:\Program Files (x86)\Jenkins\workspace\Quartz.NET\src\Quartz\Simpl\SimpleTypeLoadHelper.cs:行号 51
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml) 位置 c:\Program Files (x86)\Jenkins\workspace\Quartz.NET\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 367
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFile(String fileName, String systemId) 位置 c:\Program Files (x86)\Jenkins\workspace\Quartz.NET\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 183
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessFileAndScheduleJobs(String fileName, String systemId, IScheduler sched) 位置 c:\Program Files (x86)\Jenkins\workspace\Quartz.NET\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 672
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.ProcessFile(JobFile jobFile) 位置 c:\Program Files (x86)\Jenkins\workspace\Quartz.NET\src\Quartz\Plugin\Xml\XMLSchedulingDataProcessorPlugin.cs:行号 317
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+

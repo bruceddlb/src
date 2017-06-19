@@ -1,0 +1,4 @@
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Test\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Test\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Test\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\01workspace\10Project\src\QSDMS2.0\QSDMSManage\QSDMS.Test\UnitTestProject\obj\Debug\UnitTestProject.pdb
